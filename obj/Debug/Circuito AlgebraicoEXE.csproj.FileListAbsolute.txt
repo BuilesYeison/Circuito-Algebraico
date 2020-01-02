@@ -1,0 +1,7 @@
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\bin\Debug\Circuito AlgebraicoEXE.exe.config
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\bin\Debug\Circuito AlgebraicoEXE.exe
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\bin\Debug\Circuito AlgebraicoEXE.pdb
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\obj\Debug\Circuito AlgebraicoEXE.csprojAssemblyReference.cache
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\obj\Debug\Circuito AlgebraicoEXE.csproj.CoreCompileInputs.cache
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\obj\Debug\Circuito AlgebraicoEXE.exe
+C:\Users\Yeison Builes\Documents\uni\tercer semestre\exe circuito algebraico\Circuito AlgebraicoEXE\obj\Debug\Circuito AlgebraicoEXE.pdb
